@@ -14,3 +14,4 @@
 [gk7205v200]: https://openipc.org/cameras/vendors/goke/socs/gk7205v200
 [gk7205v210]: https://openipc.org/cameras/vendors/goke/socs/gk7205v210
 [gk7205v300]: https://openipc.org/cameras/vendors/goke/socs/gk7205v300
+[t31]: https://openipc.org/cameras/vendors/goke/socs/t31
